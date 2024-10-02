@@ -1,0 +1,33 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #bb86fc;
+}
+
+header {
+    background-color: #1f1f1f;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #1f1f1f;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
